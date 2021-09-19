@@ -45,5 +45,7 @@ void main()
 
     color = vec3(rectangle);
 
+    //test git branch;
+
     gl_FragColor = vec4(color, 1.0);
 }
